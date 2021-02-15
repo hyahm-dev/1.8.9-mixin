@@ -1,0 +1,8 @@
+{
+  "package": "com.hyahm.examplemixin.mixins",
+  "refmap": "mixins.examplemixin.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MinecraftMixin"
+  ]
+}

@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "examplemixin",
+      "name": "Example mixin",
+      "description": "",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["Flowey i guess"],
+      "credits": "",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]
